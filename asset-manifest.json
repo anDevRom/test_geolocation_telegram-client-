@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test_geolocation_telegram-client-/static/css/main.073c9b0a.css",
+    "main.js": "/test_geolocation_telegram-client-/static/js/main.eb74a4bf.js",
+    "static/js/787.84d4359e.chunk.js": "/test_geolocation_telegram-client-/static/js/787.84d4359e.chunk.js",
+    "index.html": "/test_geolocation_telegram-client-/index.html",
+    "main.073c9b0a.css.map": "/test_geolocation_telegram-client-/static/css/main.073c9b0a.css.map",
+    "main.eb74a4bf.js.map": "/test_geolocation_telegram-client-/static/js/main.eb74a4bf.js.map",
+    "787.84d4359e.chunk.js.map": "/test_geolocation_telegram-client-/static/js/787.84d4359e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.eb74a4bf.js"
+  ]
+}
